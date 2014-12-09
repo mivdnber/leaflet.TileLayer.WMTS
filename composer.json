@@ -1,0 +1,12 @@
+{
+    "name": "mylen/leaflet.wmts",
+    "description": "WMTS layering for leaflet",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Alexandre Melard",
+            "email": "amelard@mailinator.com"
+        }
+    ],
+    "require": {}
+}
